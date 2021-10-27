@@ -1,0 +1,38 @@
+bios:
+  sylvain:
+    name: "Sylvain Berthier"
+    fonction: "président"
+    role: "organiser des évènements"
+    particularité: "pratique le vomis stratégique"
+    pays: ["Espagne", "Angleterre", "Italie", "Etiopie", "Egypte", "Istrael"]
+    passion: "le Don Papa de qualité"
+    biere: "Carlsberg"
+    Langue: "JavaScript"
+  axel:
+    name: "Axel Saint-Laurens"
+    fonction: "vice-président"
+    role: "gestion des évènements"
+    particularité: "dj professionel"
+    pays: ["Bulgarie", "Angleterre", "Espagne"]
+    passion: "formule 1 et se mettre en bleu marine"
+    biere: "toutes celles au dessus de 35%"
+    Langue: "Angular"
+   sarah:
+    name: "Sarah Gauvin"
+    fonction: "trésorière"
+    role: "gestion de la moula"
+    particularité: "coûte pas cher en alcool"
+    pays: ["Espagne", "Angleterre", "Pays-Bas", "Belgique", "Italie]
+    passion: "se faire des entorces en toute circontance"
+    biere: "Kastel rouge"
+    Langue: "Java life"
+   mael:
+    name: "Maël François"
+    fonction: "secrétaire"
+    role: "gestion de la paperasse"
+    particularité: "twerk parfaitement bien"
+    pays: []
+    passion: ""
+    biere: ""
+    Langue: ""
+    
